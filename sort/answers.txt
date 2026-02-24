@@ -1,0 +1,37 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because when the information was already sorted it took less time to sort them than sort3, following what we know about the omega of this kind of sorting.
+
+sort2 uses: Merge sort
+
+How do you know?: Because it took less time to sort big chunks of information
+
+sort3 uses: SELECTION SORT
+
+How do you know?: Because it was the slower one, also, it was the only one left.
+
+
+
+COMPARISON TIMES
+
+10 MIL
+Sort1: .230
+sort2: 0.093
+Sort3: 0.144
+
+50 MIL
+Sort1: 6,17
+sort2: 1.102
+Sort3: 2,945
+
+SORTED 50000
+Sort1: 1,071
+sort2: 1.087
+Sort3: 2,527
+
+REVERSED 50000
+Sort1: 5,759
+sort2: 1.066
+Sort3: 3,165
+
+wget https://cdn.cs50.net/2024/fall/psets/3/plurality.zip

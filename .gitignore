@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Entornos y archivos temporales
+*.pyc
+__pycache__/
+*.o
+*.out
